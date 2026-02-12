@@ -2,7 +2,7 @@
 
 https://manus.im/app/BDFo9fiMe2rRoH4V4YznFc
  
-Um site elegante e profissional para planejamento, organização e celebração do casamento de João Tolerante e Maria Sossegada. Desenvolvido com React 19, Tailwind CSS 4 e componentes shadcn/ui, apresentando todas as informações financeiras, cronograma, lista de presentes e detalhes das cerimônias.
+Um site elegante e profissional para planejamento, organização e celebração do casamento de João e Maria. Desenvolvido com React 19, Tailwind CSS 4 e componentes shadcn/ui, apresentando todas as informações financeiras, cronograma, lista de presentes e detalhes das cerimônias.
 
 ## 🎯 Sobre o Projeto
 
