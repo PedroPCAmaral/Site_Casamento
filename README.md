@@ -1,5 +1,7 @@
 # 💍 Nosso Sonho de Casamento — João & Maria
 
+https://weddingdream-in25nsch.manus.space/
+
 Um site elegante e profissional para planejamento, organização e celebração do casamento de João Tolerante e Maria Sossegada. Desenvolvido com React 19, Tailwind CSS 4 e componentes shadcn/ui, apresentando todas as informações financeiras, cronograma, lista de presentes e detalhes das cerimônias.
 
 ## 🎯 Sobre o Projeto
